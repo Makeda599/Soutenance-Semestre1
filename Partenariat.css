@@ -400,6 +400,7 @@ footer{
 }
 .letters{
     /* border: solid; */
+    
     width: 30%;
     height: 34%;
     display: flex;
@@ -413,6 +414,7 @@ footer{
 }
 .votre{
     /* border: solid; */
+    
     width: 70%;
     height: 90%;
     border-right: solid;
@@ -422,10 +424,11 @@ footer{
     border-top-left-radius: 50px;
    border-bottom-left-radius: 50px; 
    background-color: white; 
-   padding: 2px;  
+   padding-left: 12px;  
 }
 .send{
     /* border: solid; */
+    
     width: 30%;
     height: 90%;
     display: flex;
@@ -434,7 +437,7 @@ footer{
     border-top-right-radius: 50px;
    border-bottom-right-radius: 50px; 
    background-color:  #FF80D2;
-   padding: 2px; 
+    padding-right: 12px;  
 }
 .footer2{
     /* border: solid; */
